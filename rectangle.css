@@ -1,0 +1,57 @@
+body {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0px 50px;
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  font-family: sans-serif;
+  font-variant: small-caps;
+  border-radius: 100px;
+  color: white;
+}
+html {
+  background: url(images/abstract-background-smooth-green-lines-waves-black-background_863650-48.jpg);
+  background-size: cover;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+input {
+  border-radius: 10px;
+}
+
+#calc-btn {
+  padding: 10px 15px;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-variant: small-caps;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+#clr-btn {
+  padding: 10px 20px;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-variant: small-caps;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  padding-top: 25px;
+}
+#lastpara {
+  padding-bottom: 25px;
+}
+
+#homeBtn {
+  padding: 5px 5px;
+  border-radius: 10px;
+}
+button:hover {
+  cursor: pointer;
+}

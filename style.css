@@ -1,0 +1,42 @@
+html {
+  background: url(images/waves-colorful-razer-phone-stock-wallpaper-preview.jpg);
+  background-size: cover;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.623);
+  padding: 0px 50px;
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  font-family: sans-serif;
+  font-variant: small-caps;
+  border-radius: 100px;
+  color: white;
+}
+img {
+  border: 2px solid black;
+  width: 200px;
+  border-radius: 10px;
+  margin: 30px 30px;
+  padding: 20px 10px;
+}
+button:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  border-radius: 25px;
+}
+#cube {
+  box-shadow: 35px 35px 70px #c739ff, -35px -35px 70px #c739ff;
+  background-color: #c739ff;
+}
+#rectangle {
+  box-shadow: 35px 35px 70px #00d435, -35px -35px 70px #00d435;
+  background-color: #00d435;
+}
+#sphereBtn {
+  box-shadow: 35px 35px 70px #af1d1d, -35px -35px 70px #ed2727;
+  border: 2px solid red;
+}
